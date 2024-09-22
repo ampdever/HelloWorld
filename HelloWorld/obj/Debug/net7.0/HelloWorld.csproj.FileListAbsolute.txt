@@ -1,0 +1,14 @@
+/Users/aaronmagallanes/Desktop/class/310/HelloWorld/HelloWorld/bin/Debug/net7.0/HelloWorld
+/Users/aaronmagallanes/Desktop/class/310/HelloWorld/HelloWorld/bin/Debug/net7.0/HelloWorld.deps.json
+/Users/aaronmagallanes/Desktop/class/310/HelloWorld/HelloWorld/bin/Debug/net7.0/HelloWorld.runtimeconfig.json
+/Users/aaronmagallanes/Desktop/class/310/HelloWorld/HelloWorld/bin/Debug/net7.0/HelloWorld.dll
+/Users/aaronmagallanes/Desktop/class/310/HelloWorld/HelloWorld/bin/Debug/net7.0/HelloWorld.pdb
+/Users/aaronmagallanes/Desktop/class/310/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aaronmagallanes/Desktop/class/310/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/aaronmagallanes/Desktop/class/310/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.AssemblyInfo.cs
+/Users/aaronmagallanes/Desktop/class/310/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/aaronmagallanes/Desktop/class/310/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.dll
+/Users/aaronmagallanes/Desktop/class/310/HelloWorld/HelloWorld/obj/Debug/net7.0/refint/HelloWorld.dll
+/Users/aaronmagallanes/Desktop/class/310/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.pdb
+/Users/aaronmagallanes/Desktop/class/310/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.genruntimeconfig.cache
+/Users/aaronmagallanes/Desktop/class/310/HelloWorld/HelloWorld/obj/Debug/net7.0/ref/HelloWorld.dll
